@@ -20,6 +20,5 @@ This Hangman game is written in C and allows players to guess the names of popul
 
 Contributions to improve the game or add new features are welcome! If you have any ideas for enhancements or bug fixes, feel free to submit a pull request.
 
-## License
 
-This project is licensed under the [MIT License](LICENSE).
+

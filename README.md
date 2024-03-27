@@ -1,24 +1,29 @@
-# Online Server Games
+# Hangman Game
 
-Welcome to the "Online Server Games" repository! This repository contains the C code for a Hangman game where players can guess movie names. 
+This Hangman game is written in C and provides a fun way to guess movie names. Whether you're playing alone or with a friend, it's an entertaining challenge for all.
 
-## Hangman Game
+## How to Play
 
-This Hangman game is written in C and allows players to guess the names of popular movies. The game runs in the terminal and provides a simple yet entertaining experience for users.
+1. **Single Player Mode**: Let the computer select a movie name and guess the letters.
+2. **Two Player Mode**: Enter a movie name, and let your friend guess the letters.
 
-### How to Play
+## Getting Started
 
-1. **Clone the Repository**: Clone this repository to your local machine using the following command:
+To play the Hangman game:
+1. Compile the provided C code.
+2. Run the executable.
+3. Follow the prompts to guess letters and try to reveal the movie name.
 
-2. **Compile the Code**: Compile the C code using a C compiler such as GCC. Navigate to the directory containing the code and run:
+## Features
 
-3. **Run the Game**: Execute the compiled program to start the Hangman game:
+- Two modes: single player and two player.
+- Random selection of movie names for replayability.
+- Keeps track of correct and incorrect guesses.
 
-4. **Guess the Movie**: Try to guess the name of the movie by entering letters. You have a limited number of attempts to guess the correct letters.
+## Contributing
 
-### Contributing
+Contributions to improve the game or add new features are welcome! Feel free to submit a pull request.
 
-Contributions to improve the game or add new features are welcome! If you have any ideas for enhancements or bug fixes, feel free to submit a pull request.
+## License
 
-
-
+This project is licensed under the [MIT License](LICENSE).
